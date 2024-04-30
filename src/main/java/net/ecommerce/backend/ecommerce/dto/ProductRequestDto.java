@@ -16,8 +16,8 @@ public class ProductRequestDto {
 
     private String title;
     private String description;
-    private boolean availability;
+    private boolean available;
     private double price;
     private String imageUrl;
-    private ArrayList<String> sizes;
+//    private ArrayList<String> sizes;
 }

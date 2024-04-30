@@ -29,5 +29,4 @@ public class Product {
     private boolean availability;
     private double price;
     private String imageUrl;
-    private ArrayList<String> sizes;
 }
